@@ -43,7 +43,7 @@ Set the corresponding ESP32 series moudule.
 
 
 
-#### This is a University Course Project! Everything is under experimental condition.
+#### This is an University Course Project for 2nd Engineering students! Everything is under experimental condition.
 - #####     *Acknowledgement - Thanks to the team members for their help*
 - `- Xiaoyi Fu - 2nd Electrical Engineering student, as Report Writer & 3D structure designer`
 - `- Hasan Jaber - 2nd Civil Engineering student, as Report Writer & Planner`
