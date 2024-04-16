@@ -38,7 +38,7 @@ Set the corresponding ESP32 series moudule.
 
 5. Using Python3 Script for testing CV
     1. Run the script
-    2. Currently, CV commands are transfering with USB-Serial, after open the UART with 115200 baudrates, insert 'camera\r\n' and send to the Main Control Board
+    2. Currently, CV commands are transfering with USB-Serial, after open the UART with 115200 baudrates, insert `camera\r\n` and send to the Main Control Board
     3. Click *Send Order*, an indicator window with CV scratch will pop of to shows CV status.
 
 
