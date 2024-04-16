@@ -46,7 +46,7 @@ Set the corresponding ESP32 series moudule.
 - #####     *Acknowledgement*
 - ###### `*Especially thanks to the team members for their help*`
 - `- Xiaoyi Fu - 2nd Electrical Engineering student, as Report Writer & 3D structure designer`
-- `- Hasan Jaber - 2nd Civil Engineering student, as Report Write & Planner`
+- `- Hasan Jaber - 2nd Civil Engineering student, as Report Writer & Planner`
 - `- Anjali - Course TA, Firmly support the advancement of the project!`
 
 
