@@ -1,0 +1,15 @@
+{
+    "idf.flashType": "UART",
+    "idf.portWin": "COM16",
+    "idf.adapterTargetName": "esp32c3",
+    "idf.openOcdConfigs": [
+        "board/esp32c3-ftdi.cfg"
+    ],
+    "files.associations": {
+        "usb_serial_jtag.h": "c",
+        "string.h": "c",
+        "freertos.h": "c",
+        "gy95t.h": "c",
+        "remote_motion.h": "c"
+    }
+}
