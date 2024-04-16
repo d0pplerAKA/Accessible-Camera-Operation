@@ -11,6 +11,7 @@
     - *[arduino-esp32 - LGPL-2.1](https://github.com/espressif/arduino-esp32)*
     - *[XboxSeriesXControllerESP32 - MIT](https://github.com/asukiaaa/arduino-XboxSeriesXControllerESP32)*
     - *[libfacedectection - BSD](https://github.com/ShiqiYu/libfacedetection)*
+    - *[MPU6050 & I2Cdev](https://github.com/fcayci/mpu6050/tree/master)*
 
 ---
 
